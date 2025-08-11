@@ -1,0 +1,21 @@
+Mission 99.1 - SynHack 3.0 Demo Script (1-2 minutes)
+
+1) Intro (10s)
+Hi, we're Mission 99.1. Our project: 'Layering of Bank Accounts - AI-Driven Money Laundering Detection'.
+
+2) Problem (15s)
+Layering is used to obscure illicit funds by moving money across multiple accounts quickly. Investigators face huge transaction volumes and fragmented data.
+
+3) Solution (20s)
+We present an interactive graph-based explorer (Streamlit) that highlights suspicious multi-hop transfers automatically, enabling quick triage.
+
+4) Demo (40-60s)
+- Open app: it auto-focuses on suspicious chains.
+- Filters: search by account ID, name, email or phone.
+- Hover nodes to view account details and click suspicious transactions to inspect timestamps/amounts.
+- Explain how 2-4 hop chains are flagged in red.
+
+5) Impact & Next steps (15s)
+Faster investigations, reduced false positives, and easy integration with real bank feeds and ML scoring.
+
+Thank you!
